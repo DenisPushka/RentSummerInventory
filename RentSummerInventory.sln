@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentSummerInventory", "RentSummerInventory\RentSummerInventory.csproj", "{42769709-97F0-4715-8179-766930FB0573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{ABBE3CB8-E75C-4BE6-A314-937BA90AB82A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{60C997AB-F28A-497D-9A86-C39E8B61327C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42769709-97F0-4715-8179-766930FB0573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42769709-97F0-4715-8179-766930FB0573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42769709-97F0-4715-8179-766930FB0573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42769709-97F0-4715-8179-766930FB0573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBE3CB8-E75C-4BE6-A314-937BA90AB82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBE3CB8-E75C-4BE6-A314-937BA90AB82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBE3CB8-E75C-4BE6-A314-937BA90AB82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBE3CB8-E75C-4BE6-A314-937BA90AB82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C997AB-F28A-497D-9A86-C39E8B61327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C997AB-F28A-497D-9A86-C39E8B61327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C997AB-F28A-497D-9A86-C39E8B61327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C997AB-F28A-497D-9A86-C39E8B61327C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
